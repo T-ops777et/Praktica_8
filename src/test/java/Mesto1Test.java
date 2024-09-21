@@ -66,4 +66,5 @@ public class Mesto1Test {
                 .then().assertThat().statusCode(200); // Проверяем, что сервер вернул код 200
     }
 
+
 }
